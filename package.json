@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/readly/",
+    "build": "vite build --base=/js_76_alex-dmytriev/",
     "preview": "vite preview"
   },
   "devDependencies": {
